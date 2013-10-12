@@ -322,7 +322,9 @@
 
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
+* [The Java SE Tutorials](http://docs.oracle.com/javase/tutorial/)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
+* [The Java EE7 Tutorial](http://docs.oracle.com/javaee/7/tutorial/doc/) (PDF & HTML)
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
